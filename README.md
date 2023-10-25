@@ -9,4 +9,4 @@ $splitTextArray = textChunker($episodeTranscript, 8000, 2);
 # Parameters
  - text: the string (multiple sentences) you'd like to split
  - maxCharacters: the total number of characters each "chunk" should include
- - contextWindowSize: the numner of sentences from the end of the last chunk to be added to the beginning of the next chunk
+ - contextWindowSize: the number of sentences from the end of the last chunk to be added to the beginning of the next chunk
